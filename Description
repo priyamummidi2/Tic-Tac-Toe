@@ -1,0 +1,9 @@
+Tic-Tac-Toe Game in Python:
+Tic-Tac-Toe is a classic two-player game where players take turns marking a 3×3 grid with "X" or "O". The player who gets three marks in a row (horizontally, vertically, or diagonally) wins.
+
+Description:
+- Uses a 3×3 NumPy array to represent the board.
+- Players input row and column to place their mark.
+- Checks for a winner after each move.
+- Ends in a draw if the board is full.
+- Switches turns between "X" and "O".
